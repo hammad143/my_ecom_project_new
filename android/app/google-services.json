@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469218819755",
+    "firebase_url": "https://my-photo-project-1853e.firebaseio.com",
+    "project_id": "my-photo-project-1853e",
+    "storage_bucket": "my-photo-project-1853e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469218819755:android:d01f41adffe494407dc1ee",
+        "android_client_info": {
+          "package_name": "com.example.e_com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469218819755-opg1sbifhsidmh6ss9ug0en6sut2cfmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzmedGHGyd9zaaEKRozTeku6wey7mngk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469218819755-opg1sbifhsidmh6ss9ug0en6sut2cfmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

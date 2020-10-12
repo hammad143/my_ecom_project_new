@@ -78,7 +78,7 @@ class _AppState extends State<App> {
 class MainScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    print("LayoutBuilder->MaterialApp -> MainScreen");
+    print("LayoutBuilder->MaterialApp -> MainScren");
     print(context.deviceSize.orientation);
     return SignUp();
     /*  if (_checkFirstScreen(context))
